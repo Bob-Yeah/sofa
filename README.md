@@ -10,6 +10,12 @@
 [![Contact](https://img.shields.io/badge/contact-on_website-brightgreen.svg)](https://www.sofa-framework.org/consortium/contact/)
 [![we're hiring](https://img.shields.io/badge/we're%20hiring!-join%20us-orange)](https://www.sofa-framework.org/about/jobs/)
 
+## UI-MH-XR Medical Simulation
+
+This is a SOFA branch maintained by https://ui-mh.com/ 
+
+We are willing to contribute to the medical simulation community.
+
 ## What is SOFA
 
 SOFA is an open source framework targeted at interactive physics simulation based on the Finite Element Method (FEM), with an emphasis on medical simulation and robotics.  
